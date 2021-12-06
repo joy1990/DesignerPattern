@@ -1,0 +1,16 @@
+D:\学习\SourceCode\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.exe
+D:\学习\SourceCode\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.deps.json
+D:\学习\SourceCode\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.runtimeconfig.json
+D:\学习\SourceCode\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.runtimeconfig.dev.json
+D:\学习\SourceCode\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.dll
+D:\学习\SourceCode\DesignPattern\DesignPattern\bin\Debug\net5.0\ref\DesignPattern.dll
+D:\学习\SourceCode\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.pdb
+D:\学习\SourceCode\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.csproj.AssemblyReference.cache
+D:\学习\SourceCode\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\学习\SourceCode\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.AssemblyInfoInputs.cache
+D:\学习\SourceCode\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.AssemblyInfo.cs
+D:\学习\SourceCode\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\学习\SourceCode\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.dll
+D:\学习\SourceCode\DesignPattern\DesignPattern\obj\Debug\net5.0\ref\DesignPattern.dll
+D:\学习\SourceCode\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.pdb
+D:\学习\SourceCode\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.genruntimeconfig.cache

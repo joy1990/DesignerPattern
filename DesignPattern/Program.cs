@@ -1,4 +1,5 @@
 ﻿using System;
+using DesignPattern.Chain;
 
 namespace DesignPattern
 {
@@ -6,7 +7,12 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World111git !");
+            Approval manager = new ManageApproval() { Name = "job" };
+            Approval boss = new MasterApproval() { Name = "tom" };
+
+            manager.NextApproval = boss;
+
+            manager.Approve(new ApproveRequest() { Amount = 100 });
         }
     }
 }
